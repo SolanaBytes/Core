@@ -1,4 +1,4 @@
-# Dragonswap Decentralized Exchange on Sei | by NIMA  ![CI](https://github.com/dragonswap-app/dragonswap-core/actions/workflows/ci.yml/badge.svg)
+
 
 ### Install Dependencies
 - `$ nvm use`
