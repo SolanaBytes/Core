@@ -31,11 +31,6 @@
 ### Setup hardhat node
 `$ yarn node`
 
-### Setup node forked from Sei Mainnet
-`$ yarn node-mainnet`
-
-### Setup node forked from Sei Testnet
-`$ yarn node-testnet`
 
 ## CI
 ### Update abis manually
